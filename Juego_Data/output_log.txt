@@ -1,0 +1,67 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     1985 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\Curso Unity 3D\Nivel\Juego_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\Curso Unity 3D\Nivel\Juego_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\Curso Unity 3D\Nivel\Juego_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading G:\Curso Unity 3D\Nivel\Juego_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: G:\Curso Unity 3D\Nivel\Juego_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading G:\Curso Unity 3D\Nivel\Juego_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: G:\Curso Unity 3D\Nivel\Juego_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\Curso Unity 3D\Nivel\Juego_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\Curso Unity 3D\Nivel\Juego_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\Curso Unity 3D\Nivel\Juego_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: G:\Curso Unity 3D\Nivel\Juego_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading G:\Curso Unity 3D\Nivel\Juego_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.035 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+Platform assembly: G:\Curso Unity 3D\Nivel\Juego_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: G:\Curso Unity 3D\Nivel\Juego_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2710 -> priority: 1 
+  Thread -> id: 2784 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.115304 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 233.
+Total: 0.221476 ms (FindLiveObjects: 0.010532 ms CreateObjectMapping: 0.021650 ms MarkObjects: 0.164717 ms  DeleteObjects: 0.023990 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.531017 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 314.
+Total: 0.155063 ms (FindLiveObjects: 0.011117 ms CreateObjectMapping: 0.010532 ms MarkObjects: 0.126976 ms  DeleteObjects: 0.006144 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.363959 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 3184.
+Total: 0.424521 ms (FindLiveObjects: 0.085723 ms CreateObjectMapping: 0.033353 ms MarkObjects: 0.296082 ms  DeleteObjects: 0.008777 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: d30 -> priority: 1 
+  Thread -> id: 2490 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.237286 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 3216.
+Total: 0.382391 ms (FindLiveObjects: 0.068169 ms CreateObjectMapping: 0.030427 ms MarkObjects: 0.273847 ms  DeleteObjects: 0.009654 ms)
+
+Platform assembly: G:\Curso Unity 3D\Nivel\Juego_Data\Managed\Boo.Lang.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.153025 ms
+
+Unloading 168 unused Assets to reduce memory usage. Loaded Objects now: 249.
+Total: 0.556179 ms (FindLiveObjects: 0.008484 ms CreateObjectMapping: 0.011995 ms MarkObjects: 0.160329 ms  DeleteObjects: 0.375369 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: b18 -> priority: 1 
+  Thread -> id: 25fc -> priority: 1 
